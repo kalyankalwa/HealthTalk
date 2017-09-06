@@ -1,0 +1,2 @@
+# HealthTalk
+The goal is to build a cheap version of Alexa which can be used in healthcare. Voice activated health assistant   Voice activated health assistant assists both patients and health professionals alike. ​ Patients can use this device to document symptoms and ask questions? All of this will be documented in the patient electronic medical record. ​ Health professionals can use this to document patient encounters and ask questions regarding patients medical records.
